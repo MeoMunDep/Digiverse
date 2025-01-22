@@ -2,5 +2,8 @@
   "limit": 100,
   "countdown": 300,
   "country_time": "en-US",
-  "howManyPointsDoYouWantWhenPlayGame": 1000000000
+  "howManyPointsDoYouWantWhenPlayGame": 10000,
+  "referralCode": "1b2de355f987134afc79098d3e79aae1",
+  "delayEachAccount": [1, 81],
+  "doTasks": true
 }
